@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MaVrayfqQ0wq2LxP7mE9PJYA8f7lliRnYx4QbKOI1yHpxUyl45F9Ro/lpBI5f9AQjzVPyT5V3fftBtqdVLhZEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Boian\\source\\repos\\Sirma_task_UI\\Sirma_task_UI\\Sirma_task_UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Boian\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
